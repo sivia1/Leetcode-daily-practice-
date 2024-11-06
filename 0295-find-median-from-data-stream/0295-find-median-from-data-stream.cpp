@@ -42,8 +42,8 @@ public:
         return result;
     }
 private:
-    priority_queue<int> lower;
-    priority_queue<int, vector<int>, greater<int>> higher;
+    priority_queue<int> lower; //max Heap
+    priority_queue<int, vector<int>, greater<int>> higher; //min Heap
 };
 
 /**
