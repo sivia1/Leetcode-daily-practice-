@@ -1,15 +1,15 @@
 class Solution {
 public:
     bool containsDuplicate(vector<int>& nums) {
-        //use a hashmap
-        unordered_map<int, int> freq;
+        //use an unordered_Set and check if the element already exists in the set before inserting, 
+        //if it does return true else insert and then return false
+
+        unordered_set<int> seen;
         for(int num : nums) {
-            freq[num]++;
-        }
-        for(auto count : freq) {
-            if(count.second > 1) {
+            if(seen.count(num)) {
                 return true;
             }
+            seen.insert(num);
         }
         return false;
     }
