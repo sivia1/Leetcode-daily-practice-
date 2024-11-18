@@ -27,11 +27,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0217-contains-duplicate) |
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0013-roman-to-integer) |
 | [0076-minimum-window-substring](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0076-minimum-window-substring) |
 ## Sliding Window
 |  |
@@ -58,4 +60,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0004-median-of-two-sorted-arrays) |
+## Math
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
