@@ -56,10 +56,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0217-contains-duplicate](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0217-contains-duplicate) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0882-peak-index-in-a-mountain-array) |
 ## Divide and Conquer
 |  |
 | ------- |
