@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0200-number-of-islands](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0542-01-matrix) |
+| [0662-maximum-width-of-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0662-maximum-width-of-binary-tree) |
 ## Simulation
 |  |
 | ------- |
@@ -99,8 +100,17 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0200-number-of-islands) |
+| [0662-maximum-width-of-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0662-maximum-width-of-binary-tree) |
 ## Union Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0200-number-of-islands) |
+## Tree
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0662-maximum-width-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0662-maximum-width-of-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
