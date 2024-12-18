@@ -1,5 +1,7 @@
 class Solution {
 public:
+//create adjacency list
+//perform topo sort to detect cycle
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
         int n = numCourses;
         vector<vector<int>> adj(n);
