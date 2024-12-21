@@ -6,7 +6,7 @@ public:
             adj[ticket[0]].push_back(ticket[1]);
         }
         for (auto& [src, dests] : adj) {
-            sort(dests.rbegin(), dests.rend());
+            sort(dests.begin(), dests.end());
         }
 
         vector<string> res;
@@ -18,9 +18,9 @@ public:
 private:
     void dfs(const string& src, unordered_map<string, deque<string>>& adj, vector<string>& res) {
         while (!adj[src].empty()) {
-            string dst = adj[src].back();
-            adj[src].pop_back();
-            dfs(dst, adj, res);
+            string next = adj[src].front();
+            adj[src].pop_front();
+            dfs(next, adj, res);
         }
         res.push_back(src);
     }
