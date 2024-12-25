@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0338-counting-bits) |
 | [0542-01-matrix](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -132,11 +133,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0210-course-schedule-ii) |
 | [0332-reconstruct-itinerary](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0332-reconstruct-itinerary) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0210-course-schedule-ii) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Eulerian Circuit
 |  |
 | ------- |
@@ -149,4 +152,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
