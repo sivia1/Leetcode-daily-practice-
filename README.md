@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0059-spiral-matrix-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0217-contains-duplicate) |
 | [0542-01-matrix](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0542-01-matrix) |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Matrix
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0542-01-matrix) |
 | [1022-unique-paths-iii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1022-unique-paths-iii) |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 |  |
 | ------- |
+| [0059-spiral-matrix-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0059-spiral-matrix-ii) |
 | [2232-adding-spaces-to-a-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2232-adding-spaces-to-a-string) |
 ## Depth-First Search
 |  |
