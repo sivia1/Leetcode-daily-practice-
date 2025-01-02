@@ -66,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -86,6 +87,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1022-unique-paths-iii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1022-unique-paths-iii) |
 | [2047-find-a-peak-element-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2047-find-a-peak-element-ii) |
 | [2232-adding-spaces-to-a-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2232-adding-spaces-to-a-string) |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -111,6 +113,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0542-01-matrix) |
 | [1022-unique-paths-iii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1022-unique-paths-iii) |
 | [2047-find-a-peak-element-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2047-find-a-peak-element-ii) |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -120,6 +123,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0803-cheapest-flights-within-k-stops) |
+| [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 ## Simulation
 |  |
 | ------- |
