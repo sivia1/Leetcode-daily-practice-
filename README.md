@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0151-reverse-words-in-a-string) |
 | [0165-compare-version-numbers](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0165-compare-version-numbers) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0186-reverse-words-in-a-string-ii) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0027-remove-element](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0027-remove-element) |
 | [0059-spiral-matrix-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0217-contains-duplicate) |
