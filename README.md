@@ -105,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0013-roman-to-integer](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0013-roman-to-integer) |
 | [0273-integer-to-english-words](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0273-integer-to-english-words) |
+| [1501-circle-and-rectangle-overlapping](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1501-circle-and-rectangle-overlapping) |
 | [2383-add-two-integers](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2383-add-two-integers) |
 ## Matrix
 |  |
@@ -220,4 +221,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
+## Geometry
+|  |
+| ------- |
+| [1501-circle-and-rectangle-overlapping](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1501-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->
