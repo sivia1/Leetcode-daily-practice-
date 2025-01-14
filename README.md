@@ -75,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0029-divide-two-integers) |
 | [0338-counting-bits](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0338-counting-bits) |
 | [1022-unique-paths-iii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1022-unique-paths-iii) |
 ## Array
@@ -113,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0029-divide-two-integers) |
 | [0273-integer-to-english-words](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0273-integer-to-english-words) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1501-circle-and-rectangle-overlapping) |
 | [2383-add-two-integers](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2383-add-two-integers) |
