@@ -1,26 +1,17 @@
 class Solution {
 public:
     int jump(vector<int>& nums) {
-        unordered_map<int, int> memo;
-        return dfs(nums, 0, memo);
-    }
-private:
-    int dfs(vector<int>& nums, int i, unordered_map<int, int>& memo) {
-        if(memo.count(i)) {
-            return memo[i];
+        int res = 0, l = 0, r = 0;
+
+        while(r < nums.size()-1) {
+            int farthest = 0;
+            for(int i = l; i <= r; i++) {
+                farthest = max(farthest, i + nums[i]);
+            }
+            l = r + 1;
+            r = farthest;
+            res++;
         }
-        if(i == nums.size()-1) {
-            return 0;
-        }
-        if(nums[i] == 0) {
-            return 1000000;
-        }
-        int res = 1000000;
-        int end = min((int)nums.size(), i + nums[i] + 1);
-        for(int j = i+1; j < end; j++) {
-            res = min(res, 1 + dfs(nums, j, memo));
-        }
-        memo[i] = res;
         return res;
     }
 };
