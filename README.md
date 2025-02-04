@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-word-subsets](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0952-word-subsets) |
 | [2232-adding-spaces-to-a-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## Sliding Window
 |  |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0045-jump-game-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0045-jump-game-ii) |
 | [0778-reorganize-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0778-reorganize-string) |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 ## Counting
 |  |
 | ------- |
@@ -277,4 +279,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0285-inorder-successor-in-bst](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0285-inorder-successor-in-bst) |
+## Enumeration
+|  |
+| ------- |
+| [2337-remove-digit-from-number-to-maximize-result](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 <!---LeetCode Topics End-->
