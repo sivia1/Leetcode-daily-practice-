@@ -20,6 +20,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0271-encode-and-decode-strings](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0271-encode-and-decode-strings) |
 | [0295-find-median-from-data-stream](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0295-find-median-from-data-stream) |
+| [0355-design-twitter](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0355-design-twitter) |
 | [2139-detect-squares](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2139-detect-squares) |
 ## Sorting
 |  |
@@ -34,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0295-find-median-from-data-stream) |
+| [0355-design-twitter](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0355-design-twitter) |
 | [0658-find-k-closest-elements](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0658-find-k-closest-elements) |
 | [0778-reorganize-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0778-reorganize-string) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0803-cheapest-flights-within-k-stops) |
@@ -50,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0076-minimum-window-substring) |
 | [0217-contains-duplicate](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0219-contains-duplicate-ii) |
+| [0355-design-twitter](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0355-design-twitter) |
 | [0560-subarray-sum-equals-k](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0560-subarray-sum-equals-k) |
 | [0778-reorganize-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0778-reorganize-string) |
 | [0952-word-subsets](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0952-word-subsets) |
@@ -259,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0025-reverse-nodes-in-k-group) |
+| [0355-design-twitter](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0355-design-twitter) |
 ## Merge Sort
 |  |
 | ------- |
