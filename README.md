@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2003-distinct-numbers-in-each-subarray](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2139-detect-squares](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2139-detect-squares) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2448-count-number-of-bad-pairs](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2448-count-number-of-bad-pairs) |
 ## String
 |  |
 | ------- |
@@ -132,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2448-count-number-of-bad-pairs](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2448-count-number-of-bad-pairs) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 ## Binary Search
 |  |
@@ -156,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1501-circle-and-rectangle-overlapping) |
 | [2383-add-two-integers](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2383-add-two-integers) |
+| [2448-count-number-of-bad-pairs](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2448-count-number-of-bad-pairs) |
 ## Matrix
 |  |
 | ------- |
@@ -258,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0778-reorganize-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0778-reorganize-string) |
 | [2139-detect-squares](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2139-detect-squares) |
+| [2448-count-number-of-bad-pairs](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2448-count-number-of-bad-pairs) |
 ## Linked List
 |  |
 | ------- |
