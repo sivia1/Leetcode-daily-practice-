@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1022-unique-paths-iii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1022-unique-paths-iii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2003-distinct-numbers-in-each-subarray) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2047-find-a-peak-element-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2047-find-a-peak-element-ii) |
 | [2058-concatenation-of-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2058-concatenation-of-array) |
 | [2139-detect-squares](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2139-detect-squares) |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0045-jump-game-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0045-jump-game-ii) |
 | [0778-reorganize-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0778-reorganize-string) |
+| [2026-merge-triplets-to-form-target-triplet](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 ## Counting
