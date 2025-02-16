@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-word-subsets](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0952-word-subsets) |
 | [1022-unique-paths-iii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1022-unique-paths-iii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2047-find-a-peak-element-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2047-find-a-peak-element-ii) |
@@ -252,6 +253,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0131-palindrome-partitioning](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0131-palindrome-partitioning) |
 | [1022-unique-paths-iii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1022-unique-paths-iii) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Shortest Path
 |  |
 | ------- |
