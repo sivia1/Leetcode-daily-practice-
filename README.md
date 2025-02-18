@@ -82,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2292-counting-words-with-a-given-prefix](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3447-clear-digits) |
 ## Sliding Window
 |  |
@@ -254,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0131-palindrome-partitioning) |
 | [1022-unique-paths-iii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1022-unique-paths-iii) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Shortest Path
 |  |
 | ------- |
@@ -273,6 +275,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2456-construct-smallest-number-from-di-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Counting
 |  |
 | ------- |
@@ -328,5 +331,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [2456-construct-smallest-number-from-di-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3447-clear-digits) |
 <!---LeetCode Topics End-->
