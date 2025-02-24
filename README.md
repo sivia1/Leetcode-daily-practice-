@@ -336,4 +336,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3447-clear-digits) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
