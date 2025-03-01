@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 | [2232-adding-spaces-to-a-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2232-adding-spaces-to-a-string) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2414-move-pieces-to-obtain-a-string) |
+| [2551-apply-operations-to-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2551-apply-operations-to-an-array) |
 ## Design
 |  |
 | ------- |
@@ -145,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2448-count-number-of-bad-pairs](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2551-apply-operations-to-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2551-apply-operations-to-an-array) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 ## Binary Search
 |  |
@@ -203,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2058-concatenation-of-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2232-adding-spaces-to-a-string) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2551-apply-operations-to-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3447-clear-digits) |
 ## Depth-First Search
 |  |
