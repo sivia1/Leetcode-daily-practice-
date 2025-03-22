@@ -11,10 +11,10 @@ public:
 
         vector<int> result;
         for(int k : queries) {
-            if(k > 0 && k <= frequency.size()) {
-                result.push_back(frequency[k-1]);
-            } else {
+            if(k > frequency.size()) {
                 result.push_back(-1);
+            } else {
+                result.push_back(frequency[k-1]);
             }
         }
         return result;
