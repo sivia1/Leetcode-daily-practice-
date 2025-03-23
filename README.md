@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-reorganize-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0778-reorganize-string) |
 | [0948-sort-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0948-sort-an-array) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1675-magnetic-force-between-two-balls) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Heap (Priority Queue)
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1022-unique-paths-iii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1022-unique-paths-iii) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1675-magnetic-force-between-two-balls) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -182,6 +184,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0658-find-k-closest-elements) |
 | [0794-swim-in-rising-water](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1675-magnetic-force-between-two-balls](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1675-magnetic-force-between-two-balls) |
 | [2047-find-a-peak-element-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2047-find-a-peak-element-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
