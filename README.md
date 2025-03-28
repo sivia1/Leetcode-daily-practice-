@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0338-counting-bits) |
+| [0410-split-array-largest-sum](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0410-split-array-largest-sum) |
 | [0542-01-matrix](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0542-01-matrix) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1013-fibonacci-number) |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0219-contains-duplicate-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0219-contains-duplicate-ii) |
 | [0271-encode-and-decode-strings](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0271-encode-and-decode-strings) |
 | [0322-coin-change](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0322-coin-change) |
+| [0410-split-array-largest-sum](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0410-split-array-largest-sum) |
 | [0419-battleships-in-a-board](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0560-subarray-sum-equals-k) |
@@ -189,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0410-split-array-largest-sum](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0658-find-k-closest-elements) |
 | [0794-swim-in-rising-water](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -323,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0045-jump-game-ii) |
+| [0410-split-array-largest-sum](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0410-split-array-largest-sum) |
 | [0778-reorganize-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0778-reorganize-string) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2026-merge-triplets-to-form-target-triplet) |
@@ -362,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0560-subarray-sum-equals-k) |
 | [2165-plates-between-candles](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2165-plates-between-candles) |
 ## Memoization
