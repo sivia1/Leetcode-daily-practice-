@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0049-group-anagrams) |
 | [0059-spiral-matrix-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0219-contains-duplicate-ii) |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0033-search-in-rotated-sorted-array) |
+| [0074-search-a-2d-matrix](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0074-search-a-2d-matrix) |
 | [0410-split-array-largest-sum](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0658-find-k-closest-elements) |
 | [0794-swim-in-rising-water](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0794-swim-in-rising-water) |
@@ -226,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0059-spiral-matrix-ii) |
+| [0074-search-a-2d-matrix](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0200-number-of-islands) |
 | [0419-battleships-in-a-board](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0542-01-matrix) |
