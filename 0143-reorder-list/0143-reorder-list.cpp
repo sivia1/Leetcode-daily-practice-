@@ -10,43 +10,41 @@
  */
 class Solution {
 public:
+//Find the mid of ll using slow and fast pointer
+//Reverse the rest of sub list
+//Then re order list
 
-ListNode* middle(ListNode* head) {
-    ListNode* slow = head;
-    ListNode* fast = head;
+    ListNode* middle(ListNode* head) {
+        ListNode* slow = head;
+        ListNode* fast = head;
 
-    while(fast->next && fast->next->next) {
-        fast = fast->next->next;
-        slow = slow->next;
+        while(fast != nullptr && fast->next != nullptr) {
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+        return slow;
     }
-    return slow;
-}
 
-ListNode* reverse(ListNode* head) {
-    ListNode* current = head;
-    ListNode* prev = nullptr;
-    ListNode* forw = nullptr;
-
-    while(current) {
-        forw = current->next;
-        current->next = prev;
-        prev = current;
-        current = forw;
+    ListNode* reverseList(ListNode* head) {
+        if(head == nullptr || head->next == nullptr) {
+            return head;
+        }
+        ListNode* p = reverseList(head->next);
+        head->next->next = head;
+        head->next = NULL;
+        return p;
     }
-    return prev;
-}
 
     void reorderList(ListNode* head) {
-        if(head == NULL || head->next == NULL) {
+        if(head == nullptr || head->next == nullptr) {
             return;
         }
-
         ListNode* mid = middle(head);
-        ListNode* reversed = reverse(mid->next);
+        ListNode* reverse = reverseList(mid->next);
         mid->next = NULL;
 
         ListNode* c1 = head;
-        ListNode* c2 = reversed;
+        ListNode* c2 = reverse;
         ListNode* f1 = NULL;
         ListNode* f2 = NULL;
 
@@ -59,6 +57,7 @@ ListNode* reverse(ListNode* head) {
 
             c1 = f1;
             c2 = f2;
+
         }
     }
 };
