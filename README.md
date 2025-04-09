@@ -242,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0210-course-schedule-ii) |
@@ -284,12 +285,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0285-inorder-successor-in-bst](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0285-inorder-successor-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0662-maximum-width-of-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0285-inorder-successor-in-bst](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0285-inorder-successor-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0662-maximum-width-of-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
