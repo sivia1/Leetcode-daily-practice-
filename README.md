@@ -128,6 +128,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0053-maximum-subarray) |
 | [0131-palindrome-partitioning](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0338-counting-bits) |
@@ -153,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0045-jump-game-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0049-group-anagrams) |
+| [0053-maximum-subarray](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0200-number-of-islands) |
@@ -215,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0053-maximum-subarray) |
 | [0948-sort-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0948-sort-an-array) |
 ## Math
 |  |
