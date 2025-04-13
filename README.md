@@ -251,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0200-number-of-islands](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0210-course-schedule-ii) |
@@ -275,6 +276,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 |  |
 | ------- |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0200-number-of-islands](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0210-course-schedule-ii) |
@@ -295,6 +297,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0285-inorder-successor-in-bst](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0285-inorder-successor-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0662-maximum-width-of-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
@@ -302,6 +305,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0285-inorder-successor-in-bst](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0285-inorder-successor-in-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0662-maximum-width-of-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
@@ -369,6 +373,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0061-rotate-list) |
+| [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0143-reorder-list](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0143-reorder-list) |
 | [0328-odd-even-linked-list](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0355-design-twitter) |
