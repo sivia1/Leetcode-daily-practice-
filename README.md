@@ -366,6 +366,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0206-reverse-linked-list) |
 | [0273-integer-to-english-words](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1013-fibonacci-number) |
 ## Greedy
@@ -400,6 +401,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0143-reorder-list) |
+| [0206-reverse-linked-list](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0355-design-twitter) |
 ## Merge Sort
