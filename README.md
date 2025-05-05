@@ -234,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0029-divide-two-integers) |
