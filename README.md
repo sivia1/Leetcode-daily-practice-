@@ -470,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Database
 |  |
 | ------- |
+| [0570-managers-with-at-least-5-direct-reports](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0595-big-countries](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0595-big-countries) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 ## Game Theory
