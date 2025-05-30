@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2888-minimum-index-of-a-valid-split](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3227-find-missing-and-repeated-values) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## String
 |  |
 | ------- |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3763-separate-squares-i](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3763-separate-squares-i) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -234,6 +236,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2165-plates-between-candles](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2165-plates-between-candles) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3763-separate-squares-i](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3763-separate-squares-i) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -325,6 +328,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0200-number-of-islands) |
 | [0261-graph-valid-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0261-graph-valid-tree) |
 | [0794-swim-in-rising-water](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0794-swim-in-rising-water) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Tree
 |  |
 | ------- |
@@ -356,6 +360,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0332-reconstruct-itinerary](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0332-reconstruct-itinerary) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0803-cheapest-flights-within-k-stops) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3838-path-existence-queries-in-a-graph-i](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Topological Sort
 |  |
 | ------- |
