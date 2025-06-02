@@ -143,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0045-jump-game-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0062-unique-paths) |
 | [0131-palindrome-partitioning](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0338-counting-bits) |
@@ -251,6 +252,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0009-palindrome-number](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0029-divide-two-integers) |
+| [0062-unique-paths](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0062-unique-paths) |
 | [0268-missing-number](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1013-fibonacci-number) |
@@ -496,6 +498,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Monotonic Stack
 |  |
