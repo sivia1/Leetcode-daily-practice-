@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2478-longest-nice-subarray](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2478-longest-nice-subarray) |
 | [2551-apply-operations-to-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2551-apply-operations-to-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2591-frog-jump-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2591-frog-jump-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -239,6 +240,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1675-magnetic-force-between-two-balls](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1675-magnetic-force-between-two-balls) |
 | [2047-find-a-peak-element-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2047-find-a-peak-element-ii) |
 | [2165-plates-between-candles](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2165-plates-between-candles) |
+| [2591-frog-jump-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2591-frog-jump-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3763-separate-squares-i](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3763-separate-squares-i) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3838-path-existence-queries-in-a-graph-i) |
@@ -414,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2456-construct-smallest-number-from-di-string) |
+| [2591-frog-jump-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2591-frog-jump-ii) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Counting
 |  |
