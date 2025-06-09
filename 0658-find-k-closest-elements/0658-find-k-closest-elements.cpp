@@ -1,11 +1,13 @@
 class Solution {
 public:
     vector<int> findClosestElements(vector<int>& arr, int k, int x) {
-        vector<pair< int, int>> diff;
+        //insert the difference for every number with x into a diff array
+
+        vector<pair<int, int>> diff;
         for(int num : arr) {
             diff.push_back({abs(num - x), num});
         }
-        sort(diff.begin(), diff.end(), [](pair<int, int> &a, pair<int, int> &b) {
+        sort(diff.begin(), diff.end(), [](pair <int, int>& a, pair <int, int>& b) {
             if(a.first == b.first) {
                 return a.second < b.second;
             }
