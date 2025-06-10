@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2350-find-closest-number-to-zero](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2350-find-closest-number-to-zero) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2448-count-number-of-bad-pairs](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
