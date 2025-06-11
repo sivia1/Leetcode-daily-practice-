@@ -347,6 +347,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0199-binary-tree-right-side-view) |
 | [0285-inorder-successor-in-bst](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0285-inorder-successor-in-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -358,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0199-binary-tree-right-side-view) |
 | [0285-inorder-successor-in-bst](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0285-inorder-successor-in-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -482,6 +484,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0285-inorder-successor-in-bst](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0285-inorder-successor-in-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0450-delete-node-in-a-bst) |
 ## Enumeration
 |  |
 | ------- |
