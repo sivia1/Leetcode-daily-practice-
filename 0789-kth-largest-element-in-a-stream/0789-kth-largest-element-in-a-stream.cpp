@@ -14,9 +14,11 @@ private:
 public:
     KthLargest(int k, vector<int>& nums) {
         key = k;
+        //Add all numbers to heap
         for(int num : nums) {
             minHeap.push(num);
 
+            //keep only k largest elements
             if(minHeap.size() > key) {
                 minHeap.pop();
             }
@@ -26,9 +28,11 @@ public:
     int add(int val) {
         minHeap.push(val);
 
+        //keep only k largest elements
         if(minHeap.size() > key) {
             minHeap.pop();
         }
+        //top of minHeap is the kth largest
         return minHeap.top();
     }
 };
