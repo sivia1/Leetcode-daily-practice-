@@ -210,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1675-magnetic-force-between-two-balls) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2047-find-a-peak-element-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2047-find-a-peak-element-ii) |
