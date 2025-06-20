@@ -1,6 +1,6 @@
 class Solution {
 public:
-//Approach Memoization: Cache the result
+//Approach Tabulation (2D dp): bool matrix of size [n+1][sum+1]; dp[n+1][sum+1]
     bool canPartition(vector<int>& nums) {
         //if the sum of array is even, then only the subset can be equally divided. If sum not even return false
         // pattern if sum is even, target = sum/2 and problem is reduced to subset sum problem, do it in Recursion, Memoization, Tabulation, Space Optimized
@@ -11,31 +11,23 @@ public:
         }
         sum % 2 == 0;
         int target = sum/2;
-        vector<vector<int>> dp(n, vector<int>(sum+1, -1));
-        return recurse(nums, nums.size()-1, target, dp);
-    }
+        vector<vector<bool>> dp(n+1, vector<bool>(sum+1, false));
 
-//Subset Sum Code
-    bool recurse(vector<int>& nums, int index, int target, vector<vector<int>>& dp) {
-        //base cases
-        if(target == 0) return true;
-        if(index <= 0) return false;
-
-        //check if computed
-        if(dp[index][target] != -1) {
-            return dp[index][target];
+        for(int i = 0; i <= n; i++) {
+            dp[i][0] = true;
         }
-        //Don't pick
-        bool notPick = recurse(nums, index-1, target, dp);
 
-        //pick if possible
-        bool pick = false;
+        for(int i = 1; i <= n; i++) {
+            for(int j = 1; j <= target; j++) {
+                //don't pick the element
+                dp[i][j] = dp[i-1][j];
 
-        if(nums[index - 1] <= target) {
-            pick = recurse(nums, index-1, target-nums[index-1], dp);
+                //pick if possible, previous element is < sum
+                if(nums[i-1] <= j) {
+                    dp[i][j] = dp[i][j] || dp[i-1][j-nums[i-1]];
+                }
+            }
         }
-        //store and return
-        dp[index][target] = (pick || notPick) ? 1 : 0;
-        return dp[index][target];
+        return dp[n][target];
     }
 };
