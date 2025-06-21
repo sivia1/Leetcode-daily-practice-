@@ -536,6 +536,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1908-recyclable-and-low-fat-products) |
+| [2127-employees-whose-manager-left-the-company](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2127-employees-whose-manager-left-the-company) |
 ## Game Theory
 |  |
 | ------- |
