@@ -531,6 +531,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0595-big-countries](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0595-big-countries) |
+| [0626-exchange-seats](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0626-exchange-seats) |
 | [1258-article-views-i](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1258-article-views-i) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
