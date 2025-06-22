@@ -534,6 +534,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0626-exchange-seats](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0626-exchange-seats) |
 | [1258-article-views-i](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1258-article-views-i) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1462-list-the-products-ordered-in-a-period) |
+| [1480-movie-rating](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1908-recyclable-and-low-fat-products) |
