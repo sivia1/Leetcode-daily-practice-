@@ -533,6 +533,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0595-big-countries](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0595-big-countries) |
 | [0626-exchange-seats](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0626-exchange-seats) |
 | [1258-article-views-i](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1258-article-views-i) |
+| [1452-restaurant-growth](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1452-restaurant-growth) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1480-movie-rating](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1480-movie-rating) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
