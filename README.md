@@ -224,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2139-detect-squares](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2139-detect-squares) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2165-plates-between-candles](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2165-plates-between-candles) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2232-adding-spaces-to-a-string) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2292-counting-words-with-a-given-prefix) |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2047-find-a-peak-element-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2047-find-a-peak-element-ii) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2165-plates-between-candles](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2165-plates-between-candles) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2591-frog-jump-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2591-frog-jump-ii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3763-separate-squares-i](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3763-separate-squares-i) |
@@ -450,6 +452,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2026-merge-triplets-to-form-target-triplet) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
