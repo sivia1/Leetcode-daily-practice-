@@ -96,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2003-distinct-numbers-in-each-subarray](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2003-distinct-numbers-in-each-subarray) |
 | [2139-detect-squares](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2139-detect-squares) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2186-count-vowel-substrings-of-a-string) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2165-plates-between-candles](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2165-plates-between-candles) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2232-adding-spaces-to-a-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2232-adding-spaces-to-a-string) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [2289-minimum-operations-to-make-the-array-alternating](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2289-minimum-operations-to-make-the-array-alternating) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -315,6 +317,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1022-unique-paths-iii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1036-rotting-oranges) |
 | [2047-find-a-peak-element-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2047-find-a-peak-element-ii) |
+| [2254-check-if-every-row-and-column-contains-all-numbers](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2254-check-if-every-row-and-column-contains-all-numbers) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3227-find-missing-and-repeated-values) |
 ## Breadth-First Search
