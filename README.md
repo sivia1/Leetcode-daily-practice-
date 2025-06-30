@@ -495,6 +495,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0328-odd-even-linked-list](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0355-design-twitter) |
 | [0908-middle-of-the-linked-list](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0908-middle-of-the-linked-list) |
+| [2196-reverse-nodes-in-even-length-groups](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2196-reverse-nodes-in-even-length-groups) |
 ## Merge Sort
 |  |
 | ------- |
