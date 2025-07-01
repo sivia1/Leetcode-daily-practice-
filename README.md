@@ -158,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0062-unique-paths) |
 | [0131-palindrome-partitioning](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0131-palindrome-partitioning) |
+| [0256-paint-house](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0256-paint-house) |
 | [0322-coin-change](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0338-counting-bits) |
 | [0410-split-array-largest-sum](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0410-split-array-largest-sum) |
@@ -196,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0238-product-of-array-except-self) |
+| [0256-paint-house](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0256-paint-house) |
 | [0268-missing-number](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0268-missing-number) |
 | [0271-encode-and-decode-strings](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0271-encode-and-decode-strings) |
 | [0322-coin-change](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0322-coin-change) |
