@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-word-subsets](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0952-word-subsets) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2165-plates-between-candles](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2165-plates-between-candles) |
 | [2186-count-vowel-substrings-of-a-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2186-count-vowel-substrings-of-a-string) |
@@ -168,6 +169,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1013-fibonacci-number](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1236-n-th-tribonacci-number) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
@@ -179,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0338-counting-bits) |
 | [1022-unique-paths-iii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1022-unique-paths-iii) |
 | [1487-cinema-seat-allocation](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1487-cinema-seat-allocation) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2478-longest-nice-subarray](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2478-longest-nice-subarray) |
 ## Array
@@ -445,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0131-palindrome-partitioning](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0131-palindrome-partitioning) |
 | [1022-unique-paths-iii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1022-unique-paths-iii) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2456-construct-smallest-number-from-di-string) |
 ## Shortest Path
 |  |
@@ -603,5 +607,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bitmask
 |  |
 | ------- |
+| [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 <!---LeetCode Topics End-->
