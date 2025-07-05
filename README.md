@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0058-length-of-last-word) |
+| [0072-edit-distance](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0076-minimum-window-substring) |
 | [0131-palindrome-partitioning](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0151-reverse-words-in-a-string) |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0062-unique-paths) |
+| [0072-edit-distance](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0131-palindrome-partitioning) |
 | [0256-paint-house](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0256-paint-house) |
 | [0322-coin-change](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0322-coin-change) |
