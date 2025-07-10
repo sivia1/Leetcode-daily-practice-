@@ -356,6 +356,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0226-invert-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0261-graph-valid-tree) |
 | [0322-coin-change](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0417-pacific-atlantic-water-flow) |
@@ -389,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0210-course-schedule-ii) |
+| [0226-invert-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0226-invert-binary-tree) |
 | [0261-graph-valid-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0261-graph-valid-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0285-inorder-successor-in-bst) |
 | [0332-reconstruct-itinerary](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0332-reconstruct-itinerary) |
@@ -417,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0156-binary-tree-upside-down](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0156-binary-tree-upside-down) |
 | [0199-binary-tree-right-side-view](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0226-invert-binary-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0285-inorder-successor-in-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0543-diameter-of-binary-tree) |
@@ -435,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0156-binary-tree-upside-down](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0156-binary-tree-upside-down) |
 | [0199-binary-tree-right-side-view](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0226-invert-binary-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0285-inorder-successor-in-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0543-diameter-of-binary-tree) |
