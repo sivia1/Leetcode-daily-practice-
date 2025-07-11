@@ -11,17 +11,25 @@
  */
 class Solution {
 public:
+//my intial idea is correct--> first push root, pop value, push children right then left into the stack if the exist; need to check for if root does not exist toothen push null into stack
     vector<int> preorderTraversal(TreeNode* root) {
+        if(!root) return {};
+
+        TreeNode* curr = root;
+        stack<TreeNode*> st;
+        st.push(curr);
         vector<int> res;
-        preOrder(root, res);
-        return res;
-    }
-    void preOrder(TreeNode* node, vector<int>& res) {
-        if(!node) return;
-        if(node) {
-            res.push_back(node->val);
+        while(!st.empty()) {
+            curr = st.top();
+            st.pop();
+            res.push_back(curr->val);
+            if(curr->right) {
+                st.push(curr->right);
+            }
+            if(curr->left) {
+                st.push(curr->left);
+            } 
         }
-        preOrder(node->left, res);
-        preOrder(node->right, res);
+        return res;
     }
 };
