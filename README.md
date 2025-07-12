@@ -426,6 +426,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0226-invert-binary-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0285-inorder-successor-in-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0450-delete-node-in-a-bst) |
+| [0509-inorder-successor-in-bst-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0509-inorder-successor-in-bst-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -447,6 +448,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0226-invert-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0226-invert-binary-tree) |
 | [0285-inorder-successor-in-bst](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0285-inorder-successor-in-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0450-delete-node-in-a-bst) |
+| [0509-inorder-successor-in-bst-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0509-inorder-successor-in-bst-ii) |
 | [0543-diameter-of-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0784-insert-into-a-binary-search-tree) |
@@ -586,6 +588,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0285-inorder-successor-in-bst](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0285-inorder-successor-in-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0450-delete-node-in-a-bst) |
+| [0509-inorder-successor-in-bst-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0509-inorder-successor-in-bst-ii) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0799-minimum-distance-between-bst-nodes) |
