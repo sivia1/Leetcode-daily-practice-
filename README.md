@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0072-edit-distance) |
+| [0085-maximal-rectangle](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0085-maximal-rectangle) |
 | [0131-palindrome-partitioning](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0131-palindrome-partitioning) |
 | [0256-paint-house](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0256-paint-house) |
 | [0322-coin-change](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0322-coin-change) |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0053-maximum-subarray) |
 | [0059-spiral-matrix-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0215-kth-largest-element-in-an-array) |
@@ -340,6 +342,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0059-spiral-matrix-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0074-search-a-2d-matrix) |
+| [0085-maximal-rectangle](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0085-maximal-rectangle) |
 | [0200-number-of-islands](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0289-game-of-life) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0417-pacific-atlantic-water-flow) |
@@ -611,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0144-binary-tree-preorder-traversal) |
 | [0402-remove-k-digits](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0402-remove-k-digits) |
@@ -645,6 +649,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0402-remove-k-digits) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Trie
