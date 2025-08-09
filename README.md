@@ -24,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0155-min-stack) |
 | [0271-encode-and-decode-strings](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0271-encode-and-decode-strings) |
 | [0295-find-median-from-data-stream](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0355-design-twitter) |
@@ -630,6 +631,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0155-min-stack](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0402-remove-k-digits) |
 | [1078-remove-outermost-parentheses](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1078-remove-outermost-parentheses) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1305-number-of-visible-people-in-a-queue) |
