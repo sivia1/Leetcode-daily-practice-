@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2888-minimum-index-of-a-valid-split](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3227-find-missing-and-repeated-values) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3825-apply-substitutions](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3825-apply-substitutions) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## String
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -282,6 +284,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3227-find-missing-and-repeated-values](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3227-find-missing-and-repeated-values) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3763-separate-squares-i](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3763-separate-squares-i) |
 | [3825-apply-substitutions](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3825-apply-substitutions) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3838-path-existence-queries-in-a-graph-i) |
@@ -539,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2591-frog-jump-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2591-frog-jump-ii) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Counting
 |  |
 | ------- |
@@ -590,6 +594,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0560-subarray-sum-equals-k) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [2165-plates-between-candles](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2165-plates-between-candles) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Memoization
 |  |
 | ------- |
@@ -618,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [3751-maximum-frequency-after-subarray-operation](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Stack
 |  |
 | ------- |
