@@ -217,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0085-maximal-rectangle) |
 | [0128-longest-consecutive-sequence](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0200-number-of-islands](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0215-kth-largest-element-in-an-array) |
@@ -334,6 +335,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0062-unique-paths) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1013-fibonacci-number) |
@@ -633,6 +635,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0085-maximal-rectangle) |
 | [0143-reorder-list](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0144-binary-tree-preorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0402-remove-k-digits) |
 | [1078-remove-outermost-parentheses](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1078-remove-outermost-parentheses) |
