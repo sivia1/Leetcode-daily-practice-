@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0242-valid-anagram) |
+| [0252-meeting-rooms](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0252-meeting-rooms) |
 | [0268-missing-number](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0324-wiggle-sort-ii) |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0238-product-of-array-except-self) |
+| [0252-meeting-rooms](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0252-meeting-rooms) |
 | [0256-paint-house](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0256-paint-house) |
 | [0268-missing-number](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0268-missing-number) |
 | [0271-encode-and-decode-strings](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0271-encode-and-decode-strings) |
