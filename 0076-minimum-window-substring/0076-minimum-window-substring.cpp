@@ -1,40 +1,52 @@
 class Solution {
 public:
     string minWindow(string s, string t) {
-        unordered_map<char, int> m;
+        if(t.size() == 0 || s.size() == 0) return "";
+        //to know the target string
+        unordered_map<char, int> tcount;
         for(int i = 0; i < t.size(); i++) {
-            m[t[i]]++;
+            tcount[t[i]]++;
         }
-        int i = 0;
-        int j = 0;
-        int counter = t.size();
-        int minStart = 0;
-        int minLength = INT_MAX;
+        // for two pointers
+        int left = 0, right = 0;
+        int valid = 0;
 
-        while(j < s.size()) {
-            if(m[s[j]] > 0) {
-                counter--;
-            }
-            m[s[j]]--;
-            j++;
+        unordered_map<char, int> window;
+        int start = 0, len = INT_MAX;
 
-            while(counter == 0) {
-                if(j - i < minLength) {
-                    minStart = i;
-                    minLength = j - i;
+        //sliding the window to build the window
+        while(right < s.size()) {
+            char r = s[right];
+            right++;
+
+            if(tcount.count(r)) {
+                window[r]++;
+                if(window[r] == tcount[r]) {
+                    valid++;
                 }
-                m[s[i]]++;
-
-                if(m[s[i]] > 0) {
-                    counter++;
-                }
-                i++;
             }
-        }
+            
 
-        if(minLength != INT_MAX) {
-            return s.substr(minStart, minLength);
+            while(valid == tcount.size()) { //window contains all required chars
+                //update minimum window if current is smaller
+                if(right - left < len) {
+                    start = left;
+                    len = right - left;
+                }
+                //remove character at left pointer
+                char l = s[left];
+                left++;
+                //update window counts
+                if(tcount.count(l)) {
+                    if(window[l] == tcount[l]) {
+                        valid--; //can remove this character
+                    }
+                    window[l]--;
+                }
+            }
+
         }
-        return "";
+        //return result
+        return len == INT_MAX ? "" : s.substr(start, len);
     }
 };
