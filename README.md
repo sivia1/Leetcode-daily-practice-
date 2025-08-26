@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1675-magnetic-force-between-two-balls](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1675-magnetic-force-between-two-balls) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2479-meeting-rooms-iii) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2479-meeting-rooms-iii) |
 ## Data Stream
 |  |
 | ------- |
@@ -113,6 +115,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2448-count-number-of-bad-pairs](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2479-meeting-rooms-iii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2479-meeting-rooms-iii) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2605-count-anagrams](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2605-count-anagrams) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -282,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2448-count-number-of-bad-pairs](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2478-longest-nice-subarray](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2478-longest-nice-subarray) |
+| [2479-meeting-rooms-iii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2551-apply-operations-to-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2591-frog-jump-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2591-frog-jump-ii) |
@@ -410,6 +414,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2232-adding-spaces-to-a-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2232-adding-spaces-to-a-string) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
+| [2479-meeting-rooms-iii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2551-apply-operations-to-an-array) |
 | [3447-clear-digits](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3447-clear-digits) |
 ## Depth-First Search
