@@ -402,6 +402,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1035-cousins-in-binary-tree) |
 | [1036-rotting-oranges](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1036-rotting-oranges) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3239-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3239-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3825-apply-substitutions](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3825-apply-substitutions) |
@@ -442,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1035-cousins-in-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [3825-apply-substitutions](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3825-apply-substitutions) |
 ## Union Find
 |  |
@@ -473,6 +475,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1035-cousins-in-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Binary Tree
 |  |
@@ -496,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1035-cousins-in-binary-tree) |
+| [1544-count-good-nodes-in-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
 ## Graph
 |  |
