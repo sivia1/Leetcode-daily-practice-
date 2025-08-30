@@ -1,5 +1,10 @@
 class Solution {
 public:
+//idea : build a directed graph from prerequisites
+//calculating the indegree for each course
+//using a queue to perform BFS and derive the topological order of courses
+//detecting cycles by ensuring topological order includes all courses
+
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
         int n = numCourses;
         vector<vector<int>> adj(n);
