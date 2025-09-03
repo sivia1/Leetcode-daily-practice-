@@ -251,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0560-subarray-sum-equals-k](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0692-top-k-frequent-words) |
+| [0739-daily-temperatures](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0882-peak-index-in-a-mountain-array) |
@@ -660,6 +661,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0402-remove-k-digits) |
+| [0739-daily-temperatures](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0739-daily-temperatures) |
 | [1078-remove-outermost-parentheses](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1078-remove-outermost-parentheses) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -693,6 +695,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0085-maximal-rectangle](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0402-remove-k-digits) |
+| [0739-daily-temperatures](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0739-daily-temperatures) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Trie
 |  |
