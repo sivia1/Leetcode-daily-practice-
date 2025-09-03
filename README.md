@@ -46,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0658-find-k-closest-elements](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0692-top-k-frequent-words) |
 | [0778-reorganize-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0778-reorganize-string) |
+| [0883-car-fleet](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1014-k-closest-points-to-origin) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
@@ -255,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0792-binary-search](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0794-swim-in-rising-water) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0883-car-fleet](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0952-word-subsets) |
 | [1014-k-closest-points-to-origin](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1014-k-closest-points-to-origin) |
@@ -662,6 +664,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0155-min-stack) |
 | [0402-remove-k-digits](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0883-car-fleet) |
 | [1078-remove-outermost-parentheses](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1078-remove-outermost-parentheses) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2456-construct-smallest-number-from-di-string) |
@@ -696,6 +699,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0402-remove-k-digits) |
 | [0739-daily-temperatures](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0739-daily-temperatures) |
+| [0883-car-fleet](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0883-car-fleet) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Trie
 |  |
