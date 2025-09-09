@@ -359,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1236-n-th-tribonacci-number](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1236-n-th-tribonacci-number) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
+| [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1501-circle-and-rectangle-overlapping](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1501-circle-and-rectangle-overlapping) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2324-find-triangular-sum-of-an-array) |
