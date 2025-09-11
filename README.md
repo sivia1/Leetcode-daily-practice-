@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0271-encode-and-decode-strings](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0271-encode-and-decode-strings) |
 | [0295-find-median-from-data-stream](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0355-design-twitter) |
+| [0359-logger-rate-limiter](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0359-logger-rate-limiter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2139-detect-squares](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2139-detect-squares) |
 ## Sorting
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0295-find-median-from-data-stream) |
+| [0359-logger-rate-limiter](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0359-logger-rate-limiter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Hash Table
 |  |
@@ -97,6 +99,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0355-design-twitter) |
+| [0359-logger-rate-limiter](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0359-logger-rate-limiter) |
 | [0424-longest-repeating-character-replacement](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0567-permutation-in-string) |
