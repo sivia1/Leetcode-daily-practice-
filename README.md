@@ -171,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2605-count-anagrams](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2605-count-anagrams) |
 | [3447-clear-digits](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3447-clear-digits) |
+| [3462-vowels-game-in-a-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3462-vowels-game-in-a-string) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3825-apply-substitutions](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3825-apply-substitutions) |
 ## Sliding Window
@@ -375,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2605-count-anagrams](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2605-count-anagrams) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3227-find-missing-and-repeated-values](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3227-find-missing-and-repeated-values) |
+| [3462-vowels-game-in-a-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3462-vowels-game-in-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -701,6 +703,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
+| [3462-vowels-game-in-a-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3462-vowels-game-in-a-string) |
 ## Combinatorics
 |  |
 | ------- |
@@ -747,4 +750,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0239-sliding-window-maximum) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
