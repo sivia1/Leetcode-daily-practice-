@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0778-reorganize-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0778-reorganize-string) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0952-word-subsets](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1006-vowel-spellchecker) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1487-cinema-seat-allocation](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1487-cinema-seat-allocation) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0778-reorganize-string) |
 | [0952-word-subsets](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1006-vowel-spellchecker) |
 | [1078-remove-outermost-parentheses](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1078-remove-outermost-parentheses) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -269,6 +271,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0883-car-fleet](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0948-sort-an-array) |
 | [0952-word-subsets](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0952-word-subsets) |
+| [1006-vowel-spellchecker](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1006-vowel-spellchecker) |
 | [1014-k-closest-points-to-origin](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1014-k-closest-points-to-origin) |
 | [1022-unique-paths-iii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1036-rotting-oranges) |
