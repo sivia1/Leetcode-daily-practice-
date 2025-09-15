@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0952-word-subsets](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1006-vowel-spellchecker) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1487-cinema-seat-allocation](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1487-cinema-seat-allocation) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
@@ -158,6 +159,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-word-subsets](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1006-vowel-spellchecker) |
 | [1078-remove-outermost-parentheses](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1078-remove-outermost-parentheses) |
+| [1264-maximum-number-of-words-you-can-type](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
