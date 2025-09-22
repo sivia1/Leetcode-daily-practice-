@@ -1,37 +1,40 @@
 class Solution {
 public:
-//make an adjacency list
-//perform BFS -- layer by layer , stop keeps track of how many layers processed
-//numeric_limits<int>::max() -- setting distances to infinity-- a city is unreachable until proven otherwise
+//"I'll use Bellman-Ford algorithm because:
+        // 1. We need shortest path with EXACTLY k+1 edges (k stops)
+        // 2. Bellman-Ford finds shortest path with AT MOST i edges in i-th iteration
+        // 3. After k+1 iterations, we'll have answer for at most k stops"
+        
+        // KEY INSIGHT TO MENTION:
+        // "k stops means k+1 edges in the path. Bellman-Ford relaxes edges,
+        // and after i iterations, we have shortest paths using at most i edges.
+        
     int findCheapestPrice(int n, vector<vector<int>>& flights, int src, int dst, int k) {
-        vector<vector<pair<int, int>>> adj(n);
-        for(auto& e : flights) {
-            adj[e[0]].push_back({e[1], e[2]});
-        }
-        vector<int> dist(n, numeric_limits<int>::max());
-        queue<pair<int, int>> q;
-        //current city and cost to reach that city
-        q.push({src, 0});
-        int stops = 0;
+        //initialisation
+        //cost to reach source is 0
+        vector<int> dist(n, INT_MAX);
+        dist[src] = 0;
+        // "We'll do k+1 iterations. Each iteration allows us to use one more edge.
+        // The key is to use a TEMP array - this ensures we only use distances 
+        // from the PREVIOUS iteration, not the current one."
+        
+        // Main Bellman-Ford loop: k+1 iterations for k stops
+        for(int i = 0; i <= k; i++) {
+            vector<int> temp = dist;
 
-        //stop keeps track of how many layers processed
-        while(stops <= k && !q.empty()) {
-            int sz = q.size();
-            while(sz--) {
-                auto[node, distance] = q.front();
-                q.pop();
-                //for each neighbor of the current city, calculate the total cost to reach the neigh
-                //If the new cost is cheaper than the previously recorded cost (dist[neighbor]), update dist            [neighbor] and add the neighbor to the queue.
-                for(auto& [neighbor, price] : adj[node]) {
-                    if(price + distance >= dist[neighbor]) {
-                        continue;
-                    }
-                    dist[neighbor] = price + distance;
-                    q.push({neighbor, dist[neighbor]});
+            for(auto& flight : flights) {
+                int from = flight[0];
+                int to = flight[1];
+                int price = flight[2];
+
+                if(dist[from] != INT_MAX) {
+                    //minimize, do not overwrite
+                    temp[to] = min(temp[to], dist[from] + price);
                 }
             }
-            stops++;
+            dist = temp;
+
         }
-        return dist[dst] == numeric_limits<int>::max() ? -1 : dist[dst];
+        return dist[dst] == INT_MAX ? -1 : dist[dst];
     }
 };
