@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0155-min-stack) |
 | [0271-encode-and-decode-strings](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0271-encode-and-decode-strings) |
 | [0295-find-median-from-data-stream](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0295-find-median-from-data-stream) |
@@ -96,6 +97,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0076-minimum-window-substring](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0146-lru-cache) |
 | [0217-contains-duplicate](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0242-valid-anagram) |
@@ -621,6 +623,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0143-reorder-list) |
+| [0146-lru-cache](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0355-design-twitter) |
@@ -768,4 +771,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3462-vowels-game-in-a-string) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
