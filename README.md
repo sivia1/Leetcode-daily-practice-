@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0165-compare-version-numbers](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0165-compare-version-numbers) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0186-reverse-words-in-a-string-ii) |
 | [0295-find-median-from-data-stream](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0295-find-median-from-data-stream) |
+| [0349-intersection-of-two-arrays](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0349-intersection-of-two-arrays) |
 | [0567-permutation-in-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0567-permutation-in-string) |
 | [0658-find-k-closest-elements](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0658-find-k-closest-elements) |
 | [0768-partition-labels](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0768-partition-labels) |
@@ -45,6 +46,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0295-find-median-from-data-stream](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0349-intersection-of-two-arrays) |
 | [0621-task-scheduler](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0692-top-k-frequent-words) |
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0349-intersection-of-two-arrays) |
 | [0355-design-twitter](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0355-design-twitter) |
 | [0359-logger-rate-limiter](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0359-logger-rate-limiter) |
 | [0424-longest-repeating-character-replacement](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0424-longest-repeating-character-replacement) |
@@ -260,6 +263,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0322-coin-change) |
 | [0324-wiggle-sort-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0417-pacific-atlantic-water-flow) |
@@ -333,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0074-search-a-2d-matrix](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0410-split-array-largest-sum) |
 | [0658-find-k-closest-elements](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0658-find-k-closest-elements) |
 | [0792-binary-search](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0792-binary-search) |
