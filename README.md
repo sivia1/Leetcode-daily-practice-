@@ -175,6 +175,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2186-count-vowel-substrings-of-a-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2186-count-vowel-substrings-of-a-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2232-adding-spaces-to-a-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2292-counting-words-with-a-given-prefix) |
+| [2317-count-collisions-on-a-road](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2317-count-collisions-on-a-road) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2414-move-pieces-to-obtain-a-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2414-move-pieces-to-obtain-a-string) |
@@ -446,6 +447,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0289-game-of-life](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0289-game-of-life) |
 | [2058-concatenation-of-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2058-concatenation-of-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2232-adding-spaces-to-a-string) |
+| [2317-count-collisions-on-a-road](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2317-count-collisions-on-a-road) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2479-meeting-rooms-iii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2479-meeting-rooms-iii) |
@@ -704,6 +706,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0883-car-fleet](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0883-car-fleet) |
 | [1078-remove-outermost-parentheses](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1078-remove-outermost-parentheses) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [2317-count-collisions-on-a-road](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2317-count-collisions-on-a-road) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3447-clear-digits) |
 ## Database
