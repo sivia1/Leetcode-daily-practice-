@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0359-logger-rate-limiter](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0359-logger-rate-limiter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0789-kth-largest-element-in-a-stream) |
 | [2139-detect-squares](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2139-detect-squares) |
+| [2587-design-memory-allocator](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2587-design-memory-allocator) |
 ## Sorting
 |  |
 | ------- |
@@ -133,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2479-meeting-rooms-iii) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2587-design-memory-allocator](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2587-design-memory-allocator) |
 | [2605-count-anagrams](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2605-count-anagrams) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3227-find-missing-and-repeated-values) |
@@ -319,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2479-meeting-rooms-iii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2551-apply-operations-to-an-array) |
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2566-number-of-unequal-triplets-in-array) |
+| [2587-design-memory-allocator](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2587-design-memory-allocator) |
 | [2591-frog-jump-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2591-frog-jump-ii) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -455,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2479-meeting-rooms-iii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2479-meeting-rooms-iii) |
 | [2551-apply-operations-to-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2551-apply-operations-to-an-array) |
+| [2587-design-memory-allocator](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2587-design-memory-allocator) |
 | [3447-clear-digits](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3447-clear-digits) |
 ## Depth-First Search
 |  |
