@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0692-top-k-frequent-words](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0778-reorganize-string) |
+| [0812-rotate-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0812-rotate-string) |
 | [0952-word-subsets](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1006-vowel-spellchecker) |
 | [1078-remove-outermost-parentheses](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1078-remove-outermost-parentheses) |
@@ -694,6 +695,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0572-subtree-of-another-tree) |
+| [0812-rotate-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0812-rotate-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Binary Search Tree
 |  |
