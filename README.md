@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0058-length-of-last-word) |
