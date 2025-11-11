@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0567-permutation-in-string) |
+| [0616-add-bold-tag-in-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0616-add-bold-tag-in-string) |
 | [0621-task-scheduler](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0621-task-scheduler) |
 | [0692-top-k-frequent-words](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0768-partition-labels) |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0408-valid-word-abbreviation](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0408-valid-word-abbreviation) |
 | [0424-longest-repeating-character-replacement](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0567-permutation-in-string) |
+| [0616-add-bold-tag-in-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0616-add-bold-tag-in-string) |
 | [0692-top-k-frequent-words](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0692-top-k-frequent-words) |
 | [0768-partition-labels](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0778-reorganize-string) |
@@ -286,6 +288,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0419-battleships-in-a-board](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0560-subarray-sum-equals-k) |
+| [0616-add-bold-tag-in-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0616-add-bold-tag-in-string) |
 | [0621-task-scheduler](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0692-top-k-frequent-words) |
@@ -705,6 +708,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0572-subtree-of-another-tree) |
+| [0616-add-bold-tag-in-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0616-add-bold-tag-in-string) |
 | [0812-rotate-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0812-rotate-string) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2292-counting-words-with-a-given-prefix) |
 ## Binary Search Tree
@@ -777,6 +781,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0616-add-bold-tag-in-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0616-add-bold-tag-in-string) |
 | [0692-top-k-frequent-words](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0692-top-k-frequent-words) |
 ## Quickselect
 |  |
