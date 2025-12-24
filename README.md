@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2566-number-of-unequal-triplets-in-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2566-number-of-unequal-triplets-in-array) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3074-apple-redistribution-into-boxes](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 ## Heap (Priority Queue)
 |  |
@@ -345,6 +346,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3074-apple-redistribution-into-boxes](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3227-find-missing-and-repeated-values) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
@@ -643,6 +645,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2456-construct-smallest-number-from-di-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2591-frog-jump-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2591-frog-jump-ii) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2600-maximum-tastiness-of-candy-basket) |
+| [3074-apple-redistribution-into-boxes](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3074-apple-redistribution-into-boxes) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3751-maximum-frequency-after-subarray-operation) |
 ## Counting
