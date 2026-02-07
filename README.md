@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2149-remove-colored-pieces-if-both-neighbors-are-the-same-color](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2149-remove-colored-pieces-if-both-neighbors-are-the-same-color) |
@@ -233,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1013-fibonacci-number](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1236-n-th-tribonacci-number) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2130-maximum-product-of-the-length-of-two-palindromic-subsequences](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2130-maximum-product-of-the-length-of-two-palindromic-subsequences) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
@@ -751,6 +753,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1078-remove-outermost-parentheses](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1078-remove-outermost-parentheses) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1371-minimum-remove-to-make-valid-parentheses](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1371-minimum-remove-to-make-valid-parentheses) |
+| [1653-minimum-deletions-to-make-string-balanced](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2317-count-collisions-on-a-road](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2317-count-collisions-on-a-road) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3447-clear-digits) |
