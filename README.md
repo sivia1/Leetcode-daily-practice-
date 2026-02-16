@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0883-car-fleet](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0883-car-fleet) |
 | [0948-sort-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0948-sort-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1014-k-closest-points-to-origin) |
+| [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1152-maximum-number-of-ones](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1152-maximum-number-of-ones) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1675-magnetic-force-between-two-balls) |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1014-k-closest-points-to-origin) |
 | [1022-unique-paths-iii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1036-rotting-oranges) |
+| [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1192-divide-chocolate](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1192-divide-chocolate) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -832,4 +834,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0146-lru-cache) |
+## Union-Find
+|  |
+| ------- |
+| [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 <!---LeetCode Topics End-->
