@@ -1,49 +1,25 @@
 class MedianFinder {
+    vector<int> data;
 public:
     MedianFinder() {
         
     }
     
     void addNum(int num) {
-        if(lower.empty()) {
-            lower.push(num);
-            return;
-        }
-        if(lower.size() > higher.size()) {
-            if(lower.top() > num) {
-                higher.push(lower.top());
-                lower.pop();
-                lower.push(num);
-            } else {
-                higher.push(num);
-            }
-        } else {
-            if(num > higher.top()) {
-                lower.push(higher.top());
-                higher.pop();
-                higher.push(num);
-            } else{
-                lower.push(num);
-            }
-        }
+        auto pos = lower_bound(data.begin(), data.end(), num);
+        data.insert(pos, num);
     }
     
     double findMedian() {
-        double result = 0.0;
-        if(lower.size() == higher.size()) {
-            result = lower.top() + (higher.top() - lower.top()) / 2.0;
+        int n = data.size();
+        if(n % 2 == 1) {
+            return data[n / 2];
         } else {
-            if(lower.size() > higher.size()) {
-                result = lower.top();
-            } else {
-                result = higher.top();
-            }
+            return (data[n/2 - 1] + data[n/2]) / 2.0;
         }
-        return result;
     }
-private:
-    priority_queue<int> lower; //max Heap
-    priority_queue<int, vector<int>, greater<int>> higher; //min Heap
+
+    //lower_bound finds the correct sorted position in O(log n)
 };
 
 /**
