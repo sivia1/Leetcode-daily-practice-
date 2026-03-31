@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1014-k-closest-points-to-origin) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1152-maximum-number-of-ones](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1152-maximum-number-of-ones) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1675-magnetic-force-between-two-balls) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
@@ -318,6 +319,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1487-cinema-seat-allocation](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1487-cinema-seat-allocation) |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1675-magnetic-force-between-two-balls) |
