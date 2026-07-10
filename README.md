@@ -148,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2888-minimum-index-of-a-valid-split](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3227-find-missing-and-repeated-values](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3227-find-missing-and-repeated-values) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3825-apply-substitutions](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3825-apply-substitutions) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3838-path-existence-queries-in-a-graph-i) |
@@ -358,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3092-minimum-moves-to-spread-stones-over-grid](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3092-minimum-moves-to-spread-stones-over-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3227-find-missing-and-repeated-values) |
 | [3420-find-occurrences-of-an-element-in-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3657-check-if-grid-can-be-cut-into-sections](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3657-check-if-grid-can-be-cut-into-sections) |
 | [3751-maximum-frequency-after-subarray-operation](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3751-maximum-frequency-after-subarray-operation) |
 | [3763-separate-squares-i](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3763-separate-squares-i) |
@@ -388,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2591-frog-jump-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2591-frog-jump-ii) |
 | [2600-maximum-tastiness-of-candy-basket](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2600-maximum-tastiness-of-candy-basket) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3763-separate-squares-i](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3763-separate-squares-i) |
 | [3838-path-existence-queries-in-a-graph-i](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3838-path-existence-queries-in-a-graph-i) |
 ## Divide and Conquer
@@ -844,8 +847,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
 |  |
 | ------- |
 | [0444-sequence-reconstruction](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0444-sequence-reconstruction) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
