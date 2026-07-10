@@ -303,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0621-task-scheduler](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0621-task-scheduler) |
 | [0658-find-k-closest-elements](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0658-find-k-closest-elements) |
 | [0692-top-k-frequent-words](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0692-top-k-frequent-words) |
+| [0695-max-area-of-island](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0794-swim-in-rising-water) |
@@ -442,6 +443,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0417-pacific-atlantic-water-flow](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0419-battleships-in-a-board) |
 | [0542-01-matrix](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0695-max-area-of-island) |
 | [0794-swim-in-rising-water](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0794-swim-in-rising-water) |
 | [1022-unique-paths-iii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1022-unique-paths-iii) |
 | [1036-rotting-oranges](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1036-rotting-oranges) |
@@ -467,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0542-01-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -516,6 +519,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0572-subtree-of-another-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0572-subtree-of-another-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0662-maximum-width-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0684-redundant-connection) |
+| [0695-max-area-of-island](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0695-max-area-of-island) |
 | [0744-network-delay-time](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0794-swim-in-rising-water) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0799-minimum-distance-between-bst-nodes) |
@@ -846,6 +850,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 |  |
 | ------- |
+| [0695-max-area-of-island](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0695-max-area-of-island) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Graph Theory
