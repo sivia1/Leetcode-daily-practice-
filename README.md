@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1675-magnetic-force-between-two-balls) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2479-meeting-rooms-iii) |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1014-k-closest-points-to-origin) |
 | [1152-maximum-number-of-ones](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1152-maximum-number-of-ones) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2479-meeting-rooms-iii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2479-meeting-rooms-iii) |
@@ -329,6 +331,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1675-magnetic-force-between-two-balls) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1851-minimum-interval-to-include-each-query) |
 | [1888-find-nearest-point-that-has-the-same-x-or-y-coordinate](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1888-find-nearest-point-that-has-the-same-x-or-y-coordinate) |
 | [1929-concatenation-of-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1929-concatenation-of-array) |
 | [2003-distinct-numbers-in-each-subarray](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2003-distinct-numbers-in-each-subarray) |
@@ -386,6 +389,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1675-magnetic-force-between-two-balls) |
+| [1851-minimum-interval-to-include-each-query](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1851-minimum-interval-to-include-each-query) |
 | [2047-find-a-peak-element-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2047-find-a-peak-element-ii) |
 | [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 | [2165-plates-between-candles](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2165-plates-between-candles) |
@@ -864,4 +868,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0269-alien-dictionary](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0269-alien-dictionary) |
 | [0444-sequence-reconstruction](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0444-sequence-reconstruction) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Sweep Line
+|  |
+| ------- |
+| [1851-minimum-interval-to-include-each-query](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1851-minimum-interval-to-include-each-query) |
 <!---LeetCode Topics End-->
