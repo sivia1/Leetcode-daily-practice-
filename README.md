@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0165-compare-version-numbers](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0165-compare-version-numbers) |
 | [0186-reverse-words-in-a-string-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0186-reverse-words-in-a-string-ii) |
 | [0189-rotate-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0189-rotate-array) |
+| [0253-meeting-rooms-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0295-find-median-from-data-stream) |
 | [0349-intersection-of-two-arrays](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0349-intersection-of-two-arrays) |
 | [0408-valid-word-abbreviation](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0408-valid-word-abbreviation) |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0217-contains-duplicate](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0242-valid-anagram) |
 | [0252-meeting-rooms](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0253-meeting-rooms-ii) |
 | [0268-missing-number](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0324-wiggle-sort-ii) |
@@ -77,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0239-sliding-window-maximum) |
+| [0253-meeting-rooms-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0253-meeting-rooms-ii) |
 | [0295-find-median-from-data-stream](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0355-design-twitter) |
@@ -287,6 +290,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0239-sliding-window-maximum) |
 | [0252-meeting-rooms](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0252-meeting-rooms) |
+| [0253-meeting-rooms-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0253-meeting-rooms-ii) |
 | [0256-paint-house](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0256-paint-house) |
 | [0268-missing-number](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0268-missing-number) |
 | [0269-alien-dictionary](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0269-alien-dictionary) |
@@ -653,6 +657,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0045-jump-game-ii) |
+| [0253-meeting-rooms-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0253-meeting-rooms-ii) |
 | [0324-wiggle-sort-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0324-wiggle-sort-ii) |
 | [0402-remove-k-digits](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0410-split-array-largest-sum) |
@@ -724,6 +729,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0238-product-of-array-except-self) |
+| [0253-meeting-rooms-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0253-meeting-rooms-ii) |
 | [0410-split-array-largest-sum](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0560-subarray-sum-equals-k) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
