@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1014-k-closest-points-to-origin](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1014-k-closest-points-to-origin) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1152-maximum-number-of-ones](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1152-maximum-number-of-ones) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1574-maximum-product-of-two-elements-in-an-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1574-maximum-product-of-two-elements-in-an-array) |
 | [1675-magnetic-force-between-two-balls](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1675-magnetic-force-between-two-balls) |
@@ -134,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0952-word-subsets](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0952-word-subsets) |
 | [1006-vowel-spellchecker](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1006-vowel-spellchecker) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1264-maximum-number-of-words-you-can-type) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1487-cinema-seat-allocation](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1487-cinema-seat-allocation) |
 | [1790-lowest-common-ancestor-of-a-binary-tree-iii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1790-lowest-common-ancestor-of-a-binary-tree-iii) |
@@ -325,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1036-rotting-oranges) |
 | [1101-the-earliest-moment-when-everyone-become-friends](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1101-the-earliest-moment-when-everyone-become-friends) |
 | [1192-divide-chocolate](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1192-divide-chocolate) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -665,6 +668,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0768-partition-labels](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0768-partition-labels) |
 | [0778-reorganize-string](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0778-reorganize-string) |
 | [1152-maximum-number-of-ones](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1152-maximum-number-of-ones) |
+| [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1369-minimum-swaps-to-make-strings-equal](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1369-minimum-swaps-to-make-strings-equal) |
 | [1487-cinema-seat-allocation](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/1487-cinema-seat-allocation) |
 | [2026-merge-triplets-to-form-target-triplet](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/2026-merge-triplets-to-form-target-triplet) |
