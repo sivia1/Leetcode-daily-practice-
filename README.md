@@ -283,6 +283,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0085-maximal-rectangle) |
 | [0090-subsets-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0090-subsets-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0135-candy) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0189-rotate-array](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0189-rotate-array) |
@@ -663,6 +664,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0045-jump-game-ii) |
+| [0135-candy](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0135-candy) |
 | [0253-meeting-rooms-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0253-meeting-rooms-ii) |
 | [0324-wiggle-sort-ii](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0324-wiggle-sort-ii) |
 | [0402-remove-k-digits](https://github.com/sivia1/Leetcode-daily-practice-/tree/master/0402-remove-k-digits) |
